@@ -1,0 +1,40 @@
+{
+    "illnesses": {
+        "grief stricken": {
+            "severity": "minor",
+            "mortality": 0,
+            "infectiousness": 0,
+            "duration": 5,
+            "moons_with": 1,
+            "risks": [
+                {
+                    "name": "lasting grief",
+                    "chance": 100
+                },
+                {
+                    "name": "constant nightmares",
+                    "chance": 15
+                }
+            ],
+            "event_triggered": false
+        }
+    },
+    "permanent conditions": {
+        "failing eyesight": {
+            "severity": "major",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 8,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "blind",
+                    "chance": 50
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "permanent conditions": {
+        "seizure prone": {
+            "severity": "major",
+            "born_with": true,
+            "moons_until": -2,
+            "moons_with": 127,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "seizure",
+                    "chance": 10
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "permanent conditions": {
+        "weak leg": {
+            "severity": "minor",
+            "born_with": true,
+            "moons_until": -2,
+            "moons_with": 30,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "sore",
+                    "chance": 20
+                },
+                {
+                    "name": "joint pain",
+                    "chance": 40
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

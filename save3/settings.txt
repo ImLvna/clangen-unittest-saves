@@ -1,0 +1,35 @@
+mns open:False
+language:english
+game_mode:expanded
+text size:0
+fullscreen:False
+show dead relation:False
+show empty relation:False
+favourite sub tab:None
+random relation:True
+affair:True
+no gendered breeding:True
+no unknown fathers:True
+romantic with former mentor:False
+first_cousin_mates:True
+dark mode:True
+custom cursor:False
+backgrounds:True
+moons and seasons:True
+den labels:True
+autosave:False
+disasters:False
+retirement:False
+shaders:False
+deputy:True
+12_moon_graduation:False
+fading:True
+save_faded_copy:False
+become_mediator:True
+gore:True
+discord:True
+showxp:True
+check_for_updates:True
+show_changelog:True
+hotkey display:False
+favorite sub tab:None

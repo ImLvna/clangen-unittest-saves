@@ -1,0 +1,31 @@
+{
+    "illnesses": {
+        "running nose": {
+            "severity": "minor",
+            "mortality": 0,
+            "infectiousness": 0,
+            "duration": 3,
+            "moons_with": 1,
+            "risks": [
+                {
+                    "name": "whitecough",
+                    "chance": 15
+                }
+            ],
+            "event_triggered": false
+        }
+    },
+    "permanent conditions": {
+        "deaf": {
+            "severity": "major",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 80,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

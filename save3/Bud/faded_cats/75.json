@@ -1,0 +1,11 @@
+{
+    "ID": "75",
+    "name_prefix": "Sarabi",
+    "name_suffix": "pelt",
+    "status": "warrior",
+    "moons": 45,
+    "parent1": null,
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

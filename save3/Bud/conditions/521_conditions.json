@@ -1,0 +1,31 @@
+{
+    "injuries": {
+        "frostbite": {
+            "severity": "major",
+            "mortality": 30,
+            "duration": 1,
+            "moons_with": 2,
+            "illness_infectiousness": [
+                {
+                    "name": "running nose",
+                    "lower_by": 6
+                }
+            ],
+            "risks": [
+                {
+                    "name": "running nose",
+                    "chance": 4
+                }
+            ],
+            "complication": null,
+            "cause_permanent": [
+                "lost a leg",
+                "lost their tail",
+                "moss",
+                "dandelion",
+                "poppy"
+            ],
+            "event_triggered": false
+        }
+    }
+}

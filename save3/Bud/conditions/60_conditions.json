@@ -1,0 +1,22 @@
+{
+    "illnesses": {
+        "grief stricken": {
+            "severity": "minor",
+            "mortality": 0,
+            "infectiousness": 0,
+            "duration": 3,
+            "moons_with": 3,
+            "risks": [
+                {
+                    "name": "lasting grief",
+                    "chance": 100
+                },
+                {
+                    "name": "constant nightmares",
+                    "chance": 15
+                }
+            ],
+            "event_triggered": false
+        }
+    }
+}

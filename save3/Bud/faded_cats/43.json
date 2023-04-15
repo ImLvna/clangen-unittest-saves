@@ -1,0 +1,11 @@
+{
+    "ID": "43",
+    "name_prefix": "Bumble",
+    "name_suffix": "freeze",
+    "status": "apprentice",
+    "moons": 8,
+    "parent1": "42",
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

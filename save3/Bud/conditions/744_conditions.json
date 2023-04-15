@@ -1,0 +1,17 @@
+{
+    "injuries": {
+        "dislocated joint": {
+            "severity": "major",
+            "mortality": 0,
+            "duration": 2,
+            "moons_with": 1,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [
+                "constant joint pain"
+            ],
+            "event_triggered": false
+        }
+    }
+}

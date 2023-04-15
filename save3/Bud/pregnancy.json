@@ -1,0 +1,37 @@
+{
+    "108": {
+        "second_parent": "98",
+        "moons": 35,
+        "amount": 0
+    },
+    "371": {
+        "second_parent": "379",
+        "moons": 15,
+        "amount": 0
+    },
+    "628": {
+        "second_parent": "774",
+        "moons": 1,
+        "amount": 8
+    },
+    "302": {
+        "second_parent": "318",
+        "moons": 0,
+        "amount": 0
+    },
+    "530": {
+        "second_parent": "402",
+        "moons": 0,
+        "amount": 0
+    },
+    "433": {
+        "second_parent": "374",
+        "moons": 0,
+        "amount": 0
+    },
+    "503": {
+        "second_parent": "510",
+        "moons": 0,
+        "amount": 0
+    }
+}

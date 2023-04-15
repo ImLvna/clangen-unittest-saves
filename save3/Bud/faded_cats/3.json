@@ -1,0 +1,11 @@
+{
+    "ID": "3",
+    "name_prefix": "River",
+    "name_suffix": "dawn",
+    "status": "warrior",
+    "moons": 106,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

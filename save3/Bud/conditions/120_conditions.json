@@ -1,0 +1,33 @@
+{
+    "injuries": {
+        "joint pain": {
+            "severity": "minor",
+            "mortality": 0,
+            "duration": 1,
+            "moons_with": 2,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [],
+            "event_triggered": false
+        }
+    },
+    "permanent conditions": {
+        "constant joint pain": {
+            "severity": "minor",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 13,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "joint pain",
+                    "chance": 10
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "23",
+    "name_prefix": "Russet",
+    "name_suffix": "horn",
+    "status": "elder",
+    "moons": 161,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

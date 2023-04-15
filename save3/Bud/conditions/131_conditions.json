@@ -1,0 +1,58 @@
+{
+    "injuries": {
+        "joint pain": {
+            "severity": "minor",
+            "mortality": 0,
+            "duration": 2,
+            "moons_with": 1,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [],
+            "event_triggered": false
+        },
+        "recovering from birth": {
+            "severity": "major",
+            "mortality": 0,
+            "duration": 3,
+            "moons_with": 1,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "an infected wound",
+                    "chance": 15
+                }
+            ],
+            "complication": null,
+            "cause_permanent": [
+                "oak_leaves",
+                "juniper",
+                "ragwort",
+                "moss"
+            ],
+            "event_triggered": false
+        }
+    },
+    "permanent conditions": {
+        "weak leg": {
+            "severity": "minor",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 13,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "sore",
+                    "chance": 20
+                },
+                {
+                    "name": "joint pain",
+                    "chance": 40
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

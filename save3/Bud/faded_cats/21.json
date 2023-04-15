@@ -1,0 +1,13 @@
+{
+    "ID": "21",
+    "name_prefix": "Mantis",
+    "name_suffix": "pelt",
+    "status": "warrior",
+    "moons": 49,
+    "parent1": "18",
+    "parent2": null,
+    "df": false,
+    "faded_offspring": [
+        "38"
+    ]
+}

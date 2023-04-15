@@ -1,0 +1,11 @@
+{
+    "ID": "8",
+    "name_prefix": "Brush",
+    "name_suffix": "stalk",
+    "status": "apprentice",
+    "moons": 8,
+    "parent1": "13",
+    "parent2": "15",
+    "df": false,
+    "faded_offspring": []
+}

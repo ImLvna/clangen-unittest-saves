@@ -1,0 +1,11 @@
+{
+    "ID": "34",
+    "name_prefix": "Rowan",
+    "name_suffix": "pelt",
+    "status": "apprentice",
+    "moons": 6,
+    "parent1": "19",
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

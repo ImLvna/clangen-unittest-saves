@@ -1,0 +1,11 @@
+{
+    "ID": "17",
+    "name_prefix": "Cicada",
+    "name_suffix": "whisker",
+    "status": "leader",
+    "moons": 162,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

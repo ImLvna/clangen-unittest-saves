@@ -1,0 +1,11 @@
+{
+    "ID": "72",
+    "name_prefix": "Shine",
+    "name_suffix": "patch",
+    "status": "warrior",
+    "moons": 111,
+    "parent1": null,
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

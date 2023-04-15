@@ -1,0 +1,11 @@
+{
+    "ID": "46",
+    "name_prefix": "Spruce",
+    "name_suffix": "spike",
+    "status": "warrior",
+    "moons": 18,
+    "parent1": null,
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

@@ -1,0 +1,57 @@
+{
+    "injuries": {
+        "phantom pain": {
+            "severity": "major",
+            "mortality": 0,
+            "duration": 1,
+            "moons_with": 2,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [],
+            "event_triggered": false
+        }
+    },
+    "permanent conditions": {
+        "lost their tail": {
+            "severity": "minor",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 31,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "an infected wound",
+                    "chance": 70
+                },
+                {
+                    "name": "phantom pain",
+                    "chance": 10
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        },
+        "weak leg": {
+            "severity": "minor",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 21,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "sore",
+                    "chance": 20
+                },
+                {
+                    "name": "joint pain",
+                    "chance": 40
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

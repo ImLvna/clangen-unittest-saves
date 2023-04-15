@@ -1,0 +1,20 @@
+{
+    "permanent conditions": {
+        "constant joint pain": {
+            "severity": "minor",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 57,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "joint pain",
+                    "chance": 10
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

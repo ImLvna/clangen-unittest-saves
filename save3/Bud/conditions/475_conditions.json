@@ -1,0 +1,62 @@
+{
+    "injuries": {
+        "recovering from birth": {
+            "severity": "major",
+            "mortality": 0,
+            "duration": 1,
+            "moons_with": 3,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "an infected wound",
+                    "chance": 15
+                }
+            ],
+            "complication": null,
+            "cause_permanent": [
+                "oak_leaves",
+                "juniper",
+                "ragwort",
+                "moss"
+            ],
+            "event_triggered": false
+        },
+        "sore": {
+            "severity": "minor",
+            "mortality": 0,
+            "duration": 1,
+            "moons_with": 1,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [],
+            "event_triggered": true
+        }
+    },
+    "permanent conditions": {
+        "lost a leg": {
+            "severity": "major",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 41,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "an infected wound",
+                    "chance": 70
+                },
+                {
+                    "name": "phantom pain",
+                    "chance": 20
+                },
+                {
+                    "name": "sore",
+                    "chance": 20
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

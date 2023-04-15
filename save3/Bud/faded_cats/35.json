@@ -1,0 +1,11 @@
+{
+    "ID": "35",
+    "name_prefix": "Snip",
+    "name_suffix": "bud",
+    "status": "apprentice",
+    "moons": 7,
+    "parent1": "19",
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

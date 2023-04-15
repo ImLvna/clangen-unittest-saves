@@ -1,0 +1,13 @@
+{
+    "ID": "20",
+    "name_prefix": "Pear",
+    "name_suffix": "freckle",
+    "status": "elder",
+    "moons": 136,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": [
+        "28"
+    ]
+}

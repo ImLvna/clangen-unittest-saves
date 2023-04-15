@@ -1,0 +1,37 @@
+{
+    "injuries": {
+        "severe headache": {
+            "severity": "major",
+            "mortality": 0,
+            "duration": 1,
+            "moons_with": 1,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [],
+            "event_triggered": true
+        }
+    },
+    "permanent conditions": {
+        "persistent headaches": {
+            "severity": "major",
+            "born_with": true,
+            "moons_until": -2,
+            "moons_with": 83,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [
+                {
+                    "name": "severe headache",
+                    "chance": 20
+                },
+                {
+                    "name": "headache",
+                    "chance": 20
+                }
+            ],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

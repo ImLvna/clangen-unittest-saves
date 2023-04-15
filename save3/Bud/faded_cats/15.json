@@ -1,0 +1,13 @@
+{
+    "ID": "15",
+    "name_prefix": "Mouse",
+    "name_suffix": "leaf",
+    "status": "elder",
+    "moons": 164,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": [
+        "8"
+    ]
+}

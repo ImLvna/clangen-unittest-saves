@@ -1,0 +1,11 @@
+{
+    "ID": "41",
+    "name_prefix": "Barley",
+    "name_suffix": "bubble",
+    "status": "apprentice",
+    "moons": 10,
+    "parent1": null,
+    "parent2": null,
+    "df": true,
+    "faded_offspring": []
+}

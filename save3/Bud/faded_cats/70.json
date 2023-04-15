@@ -1,0 +1,11 @@
+{
+    "ID": "70",
+    "name_prefix": "Bumblebee",
+    "name_suffix": "fur",
+    "status": "warrior",
+    "moons": 38,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

@@ -1,0 +1,11 @@
+{
+    "ID": "28",
+    "name_prefix": "Fern",
+    "name_suffix": "fur",
+    "status": "warrior",
+    "moons": 39,
+    "parent1": "20",
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

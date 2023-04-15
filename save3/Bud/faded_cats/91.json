@@ -1,0 +1,11 @@
+{
+    "ID": "91",
+    "name_prefix": "Umber",
+    "name_suffix": "horn",
+    "status": "kitten",
+    "moons": 3,
+    "parent1": "89",
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

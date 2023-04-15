@@ -1,0 +1,13 @@
+{
+    "ID": "18",
+    "name_prefix": "Teacup",
+    "name_suffix": "",
+    "status": "warrior",
+    "moons": 89,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": [
+        "21"
+    ]
+}

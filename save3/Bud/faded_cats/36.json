@@ -1,0 +1,11 @@
+{
+    "ID": "36",
+    "name_prefix": "Blizzard",
+    "name_suffix": "dapple",
+    "status": "warrior",
+    "moons": 13,
+    "parent1": "19",
+    "parent2": null,
+    "df": false,
+    "faded_offspring": []
+}

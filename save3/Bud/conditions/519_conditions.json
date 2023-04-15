@@ -1,0 +1,28 @@
+{
+    "injuries": {
+        "sprain": {
+            "severity": "major",
+            "mortality": 0,
+            "duration": 1,
+            "moons_with": 2,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "cause_permanent": [],
+            "event_triggered": false
+        }
+    },
+    "permanent conditions": {
+        "deaf": {
+            "severity": "major",
+            "born_with": false,
+            "moons_until": 0,
+            "moons_with": 10,
+            "mortality": 0,
+            "illness_infectiousness": [],
+            "risks": [],
+            "complication": null,
+            "event_triggered": false
+        }
+    }
+}

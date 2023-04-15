@@ -1,0 +1,15 @@
+{
+    "ID": "19",
+    "name_prefix": "Green",
+    "name_suffix": "root",
+    "status": "elder",
+    "moons": 169,
+    "parent1": null,
+    "parent2": null,
+    "df": false,
+    "faded_offspring": [
+        "34",
+        "35",
+        "36"
+    ]
+}
